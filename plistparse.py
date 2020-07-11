@@ -2,9 +2,13 @@
 
 import sys
 import plistlib
+import csv
 
 with open("apple_music_library_excerpt.xml", "rb") as fp:
     pl = plistlib.load(fp)
+
+csv.register_dialect("UniversalScrobbler", delimiter=',', lineterminator='\n', quotechar='"', quoting=csv.QUOTE_ALL)
+writer = csv.writer(sys.stdout, dialect="UniversalScrobbler")
 
 for t in pl["Tracks"]:
     try:
@@ -44,4 +48,4 @@ for t in pl["Tracks"]:
             print("Zero plays for record {}!".format(t), file=sys.stderr)
 
     for _ in range(play_count):
-        print('"{}", "{}", "{}", "{}", "{}", "{}"'.format(artist, title, album, "", album_artist, length))
+        writer.writerow([artist, title, album, "", album_artist, length])
