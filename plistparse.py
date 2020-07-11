@@ -14,6 +14,7 @@ with open(sys.argv[1], "rb") as fp:
 with open(sys.argv[2], "w") as fc:
     csv.register_dialect("UniversalScrobbler", delimiter=',', lineterminator='\n', quotechar='"', quoting=csv.QUOTE_ALL)
     writer = csv.writer(fc, dialect="UniversalScrobbler")
+    scrobbles = 0
 
     for t in pl["Tracks"]:
         try:
@@ -54,3 +55,6 @@ with open(sys.argv[2], "w") as fc:
 
         for _ in range(play_count):
             writer.writerow([artist, title, album, "", album_artist, length])
+            scrobbles += 1
+
+print("{} scrobbles written to {}".format(scrobbles, sys.argv[2]))
