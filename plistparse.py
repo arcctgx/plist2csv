@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-import sys
 import csv
 import plistlib
+import sys
 
 if len(sys.argv) != 3:
     print('usage: {} <input.xml> <output.csv>'.format(sys.argv[0]))
