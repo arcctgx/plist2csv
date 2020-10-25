@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2020-07-08T18:40:19Z</date>
+	<key>Application Version</key><string>1.0.5.14</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/Test/Music/Music/Music/</string>
+	<key>Library Persistent ID</key><string>6993897728EA7FBD</string>
+	<key>Tracks</key>
+	<dict>
+		<key>2046</key>
+		<dict>
+			<key>Track ID</key><integer>2046</integer>
+			<key>Name</key><string>Black Cow</string>
+			<key>Album Artist</key><string>Steely Dan</string>
+			<key>Album</key><string>Aja</string>
+			<key>Genre</key><string>Jazz Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9145936</integer>
+			<key>Total Time</key><integer>310256</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>BPM</key><integer>93</integer>
+			<key>Date Modified</key><date>2016-01-10T02:25:04Z</date>
+			<key>Date Added</key><date>2015-11-05T04:24:12Z</date>
+			<key>Bit Rate</key><integer>235</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>104</integer>
+			<key>Play Date</key><integer>3671286668</integer>
+			<key>Play Date UTC</key><date>2020-05-02T21:51:08Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2019-03-01T23:55:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>1</integer>
+			<key>Persistent ID</key><string>7934E960FF66419B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/Test/Music/Music/Music/Steely%20Dan/Aja/01%20Black%20Cow.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2049</key>
+		<dict>
+			<key>Track ID</key><integer>2049</integer>
+			<key>Artist</key><string>Steely Dan</string>
+			<key>Album Artist</key><string>Steely Dan</string>
+			<key>Album</key><string>Aja</string>
+			<key>Genre</key><string>Jazz Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14887592</integer>
+			<key>Total Time</key><integer>480496</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>BPM</key><integer>116</integer>
+			<key>Date Modified</key><date>2016-01-10T02:25:04Z</date>
+			<key>Date Added</key><date>2015-11-05T04:24:12Z</date>
+			<key>Bit Rate</key><integer>247</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>119</integer>
+			<key>Play Date</key><integer>3675185707</integer>
+			<key>Play Date UTC</key><date>2020-06-17T00:55:07Z</date>
+			<key>Skip Count</key><integer>34</integer>
+			<key>Skip Date</key><date>2019-07-02T17:56:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>1</integer>
+			<key>Persistent ID</key><string>E95317F62D58C46D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/Test/Music/Music/Music/Steely%20Dan/Aja/02%20Aja.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2051</key>
+		<dict>
+			<key>Track ID</key><integer>2051</integer>
+			<key>Name</key><string>Deacon Blues</string>
+			<key>Artist</key><string>Steely Dan</string>
+			<key>Album Artist</key><string>Steely Dan</string>
+			<key>Album</key><string>Aja</string>
+			<key>Genre</key><string>Jazz Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14372075</integer>
+			<key>Total Time</key><integer>456672</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>BPM</key><integer>115</integer>
+			<key>Date Modified</key><date>2016-01-10T02:25:04Z</date>
+			<key>Date Added</key><date>2015-11-05T04:24:12Z</date>
+			<key>Bit Rate</key><integer>251</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Date</key><integer>3673706612</integer>
+			<key>Play Date UTC</key><date>2020-05-30T22:03:32Z</date>
+			<key>Skip Count</key><integer>15</integer>
+			<key>Skip Date</key><date>2019-02-03T07:54:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>1</integer>
+			<key>Persistent ID</key><string>F46884BC72A2833F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/Test/Music/Music/Music/Steely%20Dan/Aja/03%20Deacon%20Blues.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2053</key>
+		<dict>
+			<key>Track ID</key><integer>2053</integer>
+			<key>Name</key><string>Peg</string>
+			<key>Artist</key><string>Steely Dan</string>
+			<key>Album Artist</key><string>Steely Dan</string>
+			<key>Album</key><string>Aja</string>
+			<key>Genre</key><string>Jazz Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7451924</integer>
+			<key>Total Time</key><integer>240326</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>BPM</key><integer>117</integer>
+			<key>Date Modified</key><date>2016-01-10T02:25:04Z</date>
+			<key>Date Added</key><date>2015-11-05T04:24:12Z</date>
+			<key>Bit Rate</key><integer>247</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>0</integer>
+			<key>Play Date</key><integer>3670768206</integer>
+			<key>Play Date UTC</key><date>2020-04-26T21:50:06Z</date>
+			<key>Skip Count</key><integer>13</integer>
+			<key>Skip Date</key><date>2020-03-01T18:40:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>1</integer>
+			<key>Persistent ID</key><string>4590226162D9B3FF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/Test/Music/Music/Music/Steely%20Dan/Aja/04%20Peg.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2055</key>
+		<dict>
+			<key>Track ID</key><integer>2055</integer>
+			<key>Name</key><string>Home "at" Last</string>
+			<key>Artist</key><string>Steely Dan</string>
+			<key>Album Artist</key><string>Steely Dan</string>
+			<key>Genre</key><string>Jazz Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10669347</integer>
+			<key>Total Time</key><integer>335699</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2016-01-10T02:25:04Z</date>
+			<key>Date Added</key><date>2015-11-05T04:24:12Z</date>
+			<key>Bit Rate</key><integer>254</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>77</integer>
+			<key>Play Date</key><integer>3675078781</integer>
+			<key>Play Date UTC</key><date>2020-06-15T19:13:01Z</date>
+			<key>Skip Count</key><integer>19</integer>
+			<key>Skip Date</key><date>2019-01-15T07:59:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>1</integer>
+			<key>Persistent ID</key><string>4607041F0E07054A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/Test/Music/Music/Music/Steely%20Dan/Aja/05%20Home%20at%20Last.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2057</key>
+		<dict>
+			<key>Track ID</key><integer>2057</integer>
+			<key>Name</key><string>暁梁王（日本中世歌謡）</string>
+			<key>Artist</key><string>芸能山城組</string>
+			<key>Album</key><string>シルクロード幻唱</string>
+			<key>Genre</key><string>Jazz Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9582352</integer>
+			<key>Total Time</key><integer>307147</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2016-01-10T02:25:04Z</date>
+			<key>Date Added</key><date>2015-11-05T04:24:12Z</date>
+			<key>Bit Rate</key><integer>249</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>76</integer>
+			<key>Play Date</key><integer>3675189742</integer>
+			<key>Play Date UTC</key><date>2020-06-17T02:02:22Z</date>
+			<key>Skip Count</key><integer>23</integer>
+			<key>Skip Date</key><date>2019-06-12T22:45:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>1</integer>
+			<key>Persistent ID</key><string>F724A9C599D250DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/Test/Music/Music/Music/Steely%20Dan/Aja/06%20I%20Got%20the%20News.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2059</key>
+		<dict>
+			<key>Track ID</key><integer>2059</integer>
+			<key>Name</key><string>Водка</string>
+			<key>Artist</key><string>Группировка Ленинград &amp; The Tiger Lillies</string>
+			<key>Album Artist</key><string>Группировка Ленинград &amp; The Tiger Lillies</string>
+			<key>Album</key><string>Хуйня</string>
+			<key>Genre</key><string>Jazz Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8400210</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>BPM</key><integer>122</integer>
+			<key>Date Modified</key><date>2016-01-10T02:25:04Z</date>
+			<key>Date Added</key><date>2015-11-05T04:24:12Z</date>
+			<key>Bit Rate</key><integer>247</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>70</integer>
+			<key>Play Date</key><integer>3659371042</integer>
+			<key>Play Date UTC</key><date>2019-12-17T00:57:22Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2020-02-29T23:34:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>1</integer>
+			<key>Persistent ID</key><string>31C0A0C53FE1644E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/Test/Music/Music/Music/Steely%20Dan/Aja/07%20Josie.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
